@@ -3,7 +3,7 @@
 Downloading the CSU Algae Model is relatively staightforward and can be achieved by following the steps outlined below. However, for detailed step-by-step instructions on how download and use the model, download and view the "Quick_Start_Guide" above. 
 
 Summary of Model Installation: 
-1) Create a file path directly on your C: drive titled "CSU_Open_Source_Algae_Model"
+1) Create a folder directly on your C: drive titled "CSU_Open_Source_Algae_Model"
 2) Within this folder create two additional folders: "Model_Files" and "Useful_Documents"
 3) Retun to the list of repositories on my profile (jonahgreene01) and download the "CSU_Algae_Model_Matlab_Excel_Files" repository
 4) Extract the contents of the "CSU_Algae_Model_Matlab_Excel_Files - master.zip" folder to the created "Model_Files" folder. It is important that only the contents of the folder are extracted to the "Model_Files" folder and that an additional file path is not created. 
