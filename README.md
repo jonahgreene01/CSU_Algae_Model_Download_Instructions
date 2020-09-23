@@ -11,7 +11,7 @@ Summary of Model Installation:
 6) Return to the list of repositories and download the "CSU_Algae_Model_Useful_Documents" repository and extract the contents of the folder into the "Useful_Documents" folder createdin Step 2. 
 7) Open the recently created "Model_Files" folder and find the Excel file titled "CSU_Algae_Model_User_Interface.xlsm"
 
-The file path should be C:\CSU_Open_Source_Algae_Model\Model_Files\CSU_Algae_Model_User_Interface. Additionally, when opening the "Model_Files" folder you should see all of the TMY3 Datasets, all of the Matlab functions and scripts, and two excel files ("CSU_Algae_Model_User_Interface" and "Growth_Model_Outputs"). You will never need to open or use the "Growth_Model_Outputs" as it is simply an intermediate file used to transfer results between Matlab and Excel. 
+The file path should be C:\CSU_Open_Source_Algae_Model\Model_Files\CSU_Algae_Model_User_Interface. Additionally, when opening the "Model_Files" folder you should see all of the TMY3 Datasets, all of the Matlab functions and scripts, and two excel files ("CSU_Algae_Model_User_Interface" and "Growth_Model_Outputs"). You should not see any more sub-folders within "Model_Files" and should only see the extracted files. You will never need to open or use the "Growth_Model_Outputs" as it is simply an intermediate file used to transfer results between Matlab and Excel. 
 
 8) Once the user interface is open and running, the model should run entirely within Excel and will call upon Matlab internally using VBA commands. 
 
